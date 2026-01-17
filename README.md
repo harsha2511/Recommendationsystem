@@ -30,9 +30,6 @@ The Movie Database (TMDB) API: For accessing movie information and posters.
 
 # Setup and Installation
 To run this project locally, follow these steps:
-Clone the repository:
-  git clone [https://github.com/quree01/RecommendationSystem.git](https://github.com/quree01/RecommendationSystem.git)
-  cd RecommendationSystem
 Create a virtual environment (recommended):
   python -m venv venv
   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
